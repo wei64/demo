@@ -10,6 +10,7 @@ const logoMap = {
   "Brokk": "assets/logos/brokk.png",
   "AMI-Agent": "assets/logos/ami-agent.png",
   "Slingshot-Agent": "assets/logos/slingshot.png",
+  "TianxiCode": "assets/logos/tianxicode.png",
   "agav-agent": "assets/logos/agav-agent.jfif"
 };
 
